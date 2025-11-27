@@ -1,8 +1,8 @@
 # Hi there, I'm Sahaj! 👋
 
-### ⚡ Tech Wizard | Robotics Enthusiast | Full Stack Developer
+### ⚡ Tech Wizard | Robotics Enthusiast
 
-I love creating cool projects and playing with all kinds of electronic stuff. My passion lies in bridging the gap between hardware and software, building intelligent robots and interactive systems.
+I love creating cool projects and playing with all kinds of electronic stuff. 
 
 ---
 
@@ -29,7 +29,7 @@ I have vibe coded on these things mostly.
 
 I'm currently working on a complete rewrite of a Raspberry Pi Tank robot, featuring:
 *   **Backend**: Python (FastAPI + Socket.IO) running on Raspberry Pi 5
-*   **Frontend**: React Control Dashboard
+*   **Frontend**: Commoand center - Dashboard
 *   **AI**: Real-time object detection using YOLOv8
 *   **Hardware**: Dual camera system, 3-DOF arm control
 
