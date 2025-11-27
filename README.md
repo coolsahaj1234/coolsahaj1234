@@ -6,7 +6,11 @@ I love creating cool projects and playing with all kinds of electronic stuff. My
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages and Tools : All vibe coding.. 
+I started my journey with Scratch Kids, then Scratch (all self taught). 
+I am preparing for my VEX Robotics competition !!
+My dad gifted me a Raspberry PI 5 8 GB and i love to explore the starters pack by connecting various sensors. I have done home automations using homeassistant. I love antigraphity from google which helps me a lot, but I run out of tokens :( 
+I have vibe coded on these things mostly. 
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
